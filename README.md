@@ -1,3 +1,15 @@
+# Formik Tutorial
+
+I implemented the tutorial of the formik website, and kept this as reference material
+  
+  
+  
+  
+# CRA docs 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

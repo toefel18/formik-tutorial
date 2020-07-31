@@ -5,7 +5,6 @@ import * as Yup from 'yup';
 
 import "./styles.css";
 
-// example of custom validation
 function validateUsername(value) {
     let error;
     if (value === 'admin') {
