@@ -1,6 +1,8 @@
 # Formik Tutorial
 
 I implemented the tutorial of the formik website, and kept this as reference material
+
+See variants here https://github.com/toefel18/formik-tutorial/tree/master/src
      ` `     
      ` `     
      ` `     
